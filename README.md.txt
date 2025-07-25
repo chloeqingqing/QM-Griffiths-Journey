@@ -25,11 +25,11 @@
 ## 📂 仓库结构
 /Solutions
 /Chapter_01
-P1.1.jpg # 习题1.1扫描件
-P1.1.sha256 # 哈希验证文件
+Ex.1.1.pdf # 习题1.1扫描件
+Ex.1.1.sha256 # 哈希验证文件
 /Chapter_02
-P2.2.jpg
-P2.2.sha256
+Ex.2.2.pdf
+Ex.2.2.sha256
 /Progress_Logs
 Week1_Summary.md
 /Assets
